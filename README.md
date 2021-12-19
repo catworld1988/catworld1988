@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @catworld1988
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning c++
